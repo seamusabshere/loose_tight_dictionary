@@ -1,6 +1,6 @@
 = loose_tight_dictionary
 
-DEPRECATED: use [fuzzy_match](https://github.com/seamusabshere/fuzzy_match) instead. All further development will happen there.
+DEPRECATED: use {fuzzy_match}(https://github.com/seamusabshere/fuzzy_match) instead. All further development will happen there.
 
 FuzzyMatch 1.0.5 is identical to LooseTightDictionary 1.0.5 (except for the name).
 
